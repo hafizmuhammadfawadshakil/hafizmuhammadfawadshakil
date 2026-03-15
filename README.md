@@ -65,7 +65,7 @@ Python • Arduino • HTML • Firebase • Git • VS Code • 3D Printing
 ## 🌐 Connect with Me
 
 - LinkedIn: [Hafiz Muhammad Fawad](https://www.linkedin.com/in/hafizmuhammad-fawad/)  
-- Email: youremail@example.com  
+- Email: hafizmfawad118@gmail.com  
 
 ---
 
